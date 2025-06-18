@@ -77,9 +77,8 @@ Consulta el archivo [`LICENSE`](./LICENSE) para más detalles.
 
 ## 📬 Contacto
 
-Para soporte técnico, sugerencias o colaboración, contacta al equipo 
-*ernestorub@gmail.com*
-*rubio.ernesto@inifap.gob.mx*
-*xelhuantzi.jaqueline@inifap.gob.mx*
-**Campo Experimental Centro Altos – CIRPAC, INIFAP**, Tepatitlán, Jalisco, México.
+-Para soporte técnico, sugerencias o colaboración, contacta al equipo 
+-*ernestorub@gmail.com*;*rubio.ernesto@inifap.gob.mx*
+-*xelhuantzi.jaqueline@inifap.gob.mx*
+-**Campo Experimental Centro Altos – CIRPAC, INIFAP**, Tepatitlán, Jalisco, México.
 
