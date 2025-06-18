@@ -81,4 +81,4 @@ Consulta el archivo [`LICENSE`](./LICENSE) para más detalles.
 - *ernestorub@gmail.com*;*rubio.ernesto@inifap.gob.mx*
 - *xelhuantzi.jaqueline@inifap.gob.mx*
 - **Campo Experimental Centro Altos – CIRPAC, INIFAP**, Tepatitlán, Jalisco, México.
-<img src="www/lab.png" width="250"; style="float:right" />
+<img src="www/lab.png" width="250" style="float:right" />
