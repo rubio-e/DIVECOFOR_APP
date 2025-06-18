@@ -219,6 +219,17 @@ server <- function(input, output, session) {
     }
   )
   
+  output$status_message_diversidad <- renderText({
+    if (input$create_dataframe > 0) {
+      "Nota: Se presentan las variables de diversidad a nivel de sitio de muestreo. Donde: q0, q1 y q2 son
+      los números de Hill; q0 representa la riqueza de especies; 
+      q1 es exp(Shannon) y q2 es el índice de Simpson transformado. 
+      Para los otros índices ver el manual en la pestaña de ayuda."
+    } else {
+      ""
+    }
+  })
+  
   
   
   ########################################################
