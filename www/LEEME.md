@@ -53,7 +53,7 @@ No se requieren conocimientos de programación para usar DIVECOFOR, gracias a su
 
 ## 📦 Instalación (versión portable)
 
-1. Asegúrate de contar con Google Chrome instalado.
+1. Favor de solicitarla la Dra. Jaqueline Xelhuantzi-Carmona (xelhuantzi.jaqueline@inifap.gob.mx)
 2. Ejecuta la versión portable de R y abre la aplicación DIVECOFOR desde la interfaz.
 3. Carga tu base de datos en formato `.csv` y sigue las instrucciones en pantalla.
 
@@ -80,5 +80,6 @@ Consulta el archivo [`LICENSE`](./LICENSE) para más detalles.
 Para soporte técnico, sugerencias o colaboración, contacta al equipo 
 *ernestorub@gmail.com*
 *rubio.ernesto@inifap.gob.mx*
+*xelhuantzi.jaqueline@inifap.gob.mx*
 **Campo Experimental Centro Altos – CIRPAC, INIFAP**, Tepatitlán, Jalisco, México.
 
