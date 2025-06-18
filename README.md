@@ -82,5 +82,5 @@ Consulta el archivo [`LICENSE`](./LICENSE) para más detalles.
 - *xelhuantzi.jaqueline@inifap.gob.mx*
 - **Campo Experimental Centro Altos – CIRPAC, INIFAP**, Tepatitlán, Jalisco, México.
 - 
-![plot of chunk unnamed-chunk-1](www/lab.png) 
-
+![Alt text](www/lab.png) 
+<img src="www/lab.png" width="300" />
