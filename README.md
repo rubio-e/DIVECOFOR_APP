@@ -54,7 +54,7 @@ No se requieren conocimientos de programación para usar DIVECOFOR, gracias a su
 ## 📦 Instalación (versión portable)
 
 1. Solicitar la versión a la Dra. Xelhuantzi [*xelhuantzi.jaqueline@inifap.gob.mx*]
-2. Ejecuta la versión portable de R y abre la aplicación DIVECOFOR desde la interfaz.
+2. Ejecuta la versión portable dando doble clic en el archivo run.vbs y abre la aplicación DIVECOFOR desde la interfaz.
 3. Carga tu base de datos en formato `.csv` y sigue las instrucciones en pantalla.
 
 ---
