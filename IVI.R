@@ -219,6 +219,8 @@ server <- function(input, output, session) {
     }
   )
   
+  
+  
   ########################################################
   ################ ESTRUCTURA ############################
   ########################################################
@@ -371,11 +373,11 @@ server <- function(input, output, session) {
   #   stopApp()
   # })
   
-  session$onSessionEnded(function() {
-    # Cierra Chrome Portable cuando se cierre la app
-    system("taskkill /F /IM GoogleChromePortable.exe", intern = FALSE)
-    stopApp()
-  })
+  # session$onSessionEnded(function() {
+  #   # Cierra Chrome Portable cuando se cierre la app
+  #   system("taskkill /F /IM GoogleChromePortable.exe", intern = FALSE)
+  #   stopApp()
+  # })
 
 }
 
