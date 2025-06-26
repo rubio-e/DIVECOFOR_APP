@@ -1,4 +1,4 @@
-# DIVECOFOR 1.0 <a href='https://github.com/rubio-e/DIVECOFOR_APP'><img src='www/logo_divecofor.png' align="right" width="100" /></a>
+# DIVECOFOR 1.0 <a href='https://github.com/rubio-e/DIVECOFOR_APP'><img src='www/logo_divecofor.png' align="right" width="200" /></a>
 <!-- badges: start -->
 [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/rubio-e/DIVECOFOR_APP)
 [![License: GPL (\>=3)](https://img.shields.io/badge/license-GPL%20(%3E=%203)-blue.svg)](./LICENSE)
