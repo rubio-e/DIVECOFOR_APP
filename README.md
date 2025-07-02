@@ -1,7 +1,7 @@
 # DIVECOFOR 1.0 <a href='https://github.com/rubio-e/DIVECOFOR_APP'><img src='www/logo_divecofor.png' align="right" width="200" /></a>
 <!-- badges: start -->
 [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/rubio-e/DIVECOFOR_APP)
-[![License: GPL (\>=3)](https://img.shields.io/badge/license-GPL%20(%3E=%203)-blue.svg)](./LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
 <!-- badges: end -->
 
 **DIVECOFOR** es una aplicación informática desarrollada en el lenguaje R mediante Shiny, diseñada para calcular índices de diversidad y estructura forestal utilizando datos de inventarios forestales. Su propósito es facilitar el análisis y visualización de datos ecológicos, especialmente para técnicos y productores del sector forestal.
@@ -65,8 +65,8 @@ No se requieren conocimientos de programación para usar DIVECOFOR, gracias a su
 
 ## 📄 Licencia
 
-Este software está licenciado bajo los términos de la **Licencia Pública General de GNU (GPL v3)**(https://www.gnu.org/licenses/gpl-3.0.html).  
-Consulta el archivo [`LICENSE`](./LICENSE) para más detalles.
+Este software está licenciado bajo los términos de la **Licencia MIT)**(https://choosealicense.com/licenses/mit/).  
+Consulta el archivo [`LICENSE`](./LICENSE.md) para más detalles.
 
 
 ---
