@@ -1,19 +1,7 @@
 # DIVECOFOR 1.0
 # Copyright (C) 2023 [INIFAP]
 # Maintainer: Ernesto Rubio (ernestorub@gmail.com)
-#
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with this program. If not, see <https://www.gnu.org/licenses/>.
+
 options(encoding = "UTF-8")
 ui_tab6 <- function() {
   tabPanel(
@@ -26,6 +14,9 @@ ui_tab6 <- function() {
           tabPanel("Información Importante", 
                    tags$iframe(style="height:500px; width:100%; scrolling=yes", 
                                src="LEEME.md")),
+          tabPanel("LICENCIA", 
+                   tags$iframe(style="height:500px; width:100%; scrolling=yes", 
+                               src="LICENSE.md")),
           tabPanel("Manual de usuario", 
                    tags$iframe(style="height:600px; width:100%; scrolling=yes", 
                                src="MANUAL_DE_USUARIO_DIVECOFOR.pdf")),
