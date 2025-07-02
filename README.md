@@ -1,6 +1,6 @@
 # DIVECOFOR 1.0 <a href='https://github.com/rubio-e/DIVECOFOR_APP'><img src='www/logo_divecofor.png' align="right" width="200" /></a>
 <!-- badges: start -->
-[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/rubio-e/DIVECOFOR_APP)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/rubio-e/DIVECOFOR_APP)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
 <!-- badges: end -->
 
