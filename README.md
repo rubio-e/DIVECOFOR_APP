@@ -1,5 +1,5 @@
-# DIVECOFOR 1.0 <a href='https://drive.google.com/file/d/1ZucT5eoAtMHSrINDWmYJcXKxyJoy--6E/view?usp=drive_link'></a>
-<a href='https://github.com/rubio-e/DIVECOFOR_APP'><img src='www/logo_divecofor.png' align="right" width="200" /></a>
+# DIVECOFOR 1.0 <a href='https://drive.google.com/file/d/1ZucT5eoAtMHSrINDWmYJcXKxyJoy--6E/view?usp=drive_link'>🚀</a>
+<a href='https://drive.google.com/file/d/1ZucT5eoAtMHSrINDWmYJcXKxyJoy--6E/view?usp=drive_link'><img src='www/logo_divecofor.png' align="right" width="200" /></a>
 <!-- badges: start -->
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/rubio-e/DIVECOFOR_APP)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
