@@ -6,9 +6,8 @@
 
 **DIVECOFOR** es una aplicación informática desarrollada en el lenguaje R mediante Shiny, diseñada para calcular índices de diversidad y estructura forestal utilizando datos de inventarios forestales. Su propósito es facilitar el análisis y visualización de datos ecológicos, especialmente para técnicos y productores del sector forestal.
 Descargar versión portable:
-<!-- badges: start -->
 <a href='https://github.com/rubio-e/DIVECOFOR_APP'><img src='www/logo_divecofor.png' align="left" width="50" /></a>
-<!-- badges: end -->
+
 
 ---
 
